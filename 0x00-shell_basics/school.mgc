@@ -2,4 +2,5 @@
 0 string SCHOOL school
 !:mime School
 chmod u+x
+file -C -m my-magic
 file -C -m school.mgc
